@@ -1,5 +1,5 @@
 # The following list comprehension exercises will make use of the 
-# defined Human class. 
+# defined Human class.  
 class Human:
     def __init__(self, name, age):
         self.name = name
